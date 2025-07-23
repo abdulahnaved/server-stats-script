@@ -9,8 +9,10 @@ This is a simple Bash script that prints key Linux server performance statistics
 
 ---
 
-## 📋 🔗 [https://github.com/abdulahnaved/server-stats-script](https://github.com/abdulahnaved/server-stats-https://roadmap.sh/projects/server-stats)
+## 📋 🔗 [## 🗺️ Roadmap.sh Project Page
 
+✅ [https://roadmap.sh/projects/server-stats](https://roadmap.sh/projects/server-stats)
+https://github.com/abdulahnaved/server-stats-script](https://github.com/abdulahnaved/server-stats-https://roadmap.sh/projects/server-stats)
 Features
 
 - 🧠 Total CPU usage
