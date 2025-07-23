@@ -9,7 +9,9 @@ This is a simple Bash script that prints key Linux server performance statistics
 
 ---
 
-## 📋 Features
+## 📋 🔗 [https://github.com/abdulahnaved/server-stats-script](https://github.com/abdulahnaved/server-stats-script)
+
+Features
 
 - 🧠 Total CPU usage
 - 💾 Memory usage (free vs used with percentage)
