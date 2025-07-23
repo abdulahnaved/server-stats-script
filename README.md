@@ -9,7 +9,7 @@ This is a simple Bash script that prints key Linux server performance statistics
 
 ---
 
-## 📋 🔗 [https://github.com/abdulahnaved/server-stats-script](https://github.com/abdulahnaved/server-stats-script)
+## 📋 🔗 [https://github.com/abdulahnaved/server-stats-script](https://github.com/abdulahnaved/server-stats-https://roadmap.sh/projects/server-stats)
 
 Features
 
