@@ -2,6 +2,11 @@
 
 This is a simple Bash script that prints key Linux server performance statistics in a clean format. Great for monitoring or learning Linux system internals.
 
+## 🌐 Project Page
+
+🔗 [https://github.com/abdulahnaved/server-stats-script](https://github.com/abdulahnaved/server-stats-script)
+
+
 ---
 
 ## 📋 Features
